@@ -2,5 +2,5 @@ Rocket.toml
 target
 .data
 .env
-
+.vscode
 .vercel
